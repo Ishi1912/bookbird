@@ -1,4 +1,5 @@
 BookBird is an online bookstore website built using HTML, CSS, JavaScript, PHP, and MySQL, offering a seamless experience for book lovers to explore, purchase, and review books.
+
 🌟 Features
 ✔️ User Authentication – Login/Signup system for personalized experience
 ✔️ Book Catalog – Browse a wide variety of books with categories & search filters
