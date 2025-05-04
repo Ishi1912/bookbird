@@ -26,6 +26,7 @@ BookBird is an online bookstore website built using HTML, CSS, JavaScript, PHP, 
    ✔️Styling: Bootstrap 
 
 🖼️ Screenshots
+
 ![image](https://github.com/user-attachments/assets/68795102-f3ff-4878-b793-d8d40ca83000)
 ![image](https://github.com/user-attachments/assets/64dcef3e-0fe4-4693-b10f-561bf5ef6e56)
 ![image](https://github.com/user-attachments/assets/f5a855e4-7071-47ac-8c92-cd63dae0c3a0)
